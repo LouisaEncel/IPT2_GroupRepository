@@ -22,6 +22,11 @@ public class IPT2Quiz2 {
         }
     }
     
+    //Subtraction Method
+     public static double subtraction(double num1, double num2) {
+        return num1 - num2;
+    }
+    
     public static void main(String[] args) {
         // Main program logic will go here
     }
